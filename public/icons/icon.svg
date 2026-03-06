@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="102" fill="#080B16"/>
+  <circle cx="256" cy="215" r="112" fill="#7C3AED" opacity="0.2"/>
+  <circle cx="256" cy="215" r="112" fill="none" stroke="#7C3AED" stroke-width="10"/>
+  <text x="256" y="232" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="144" fill="#ffffff">N</text>
+  <text x="256" y="384" text-anchor="middle" font-family="Arial,sans-serif" font-weight="600" font-size="42" fill="#ffffff">NEURO</text>
+  <text x="256" y="430" text-anchor="middle" font-family="Arial,sans-serif" font-weight="300" font-size="30" fill="#94a3b8">PRESENCIA</text>
+</svg>
